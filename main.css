@@ -68,21 +68,26 @@ nav a{
 
 
 
+/* section class="about" */
 .about{
               text-align: center;
               padding: 3rem 0;
 }
+
 .about-con{
               padding: 0 15rem;
 }
+
 .about-title{
               color: #00b7ff;
               font-size: 2rem;
 }
+
 .about-desc{
               color: #808080;;
               margin: 1rem 0;
 }
+
 .about-img{
               margin: 2rem 0;
 }

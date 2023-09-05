@@ -1,0 +1,88 @@
+*{
+              margin: 0;
+              padding: 0;
+              box-sizing: border-box;
+}
+
+
+
+/* header */
+header{
+              background: url(https://images.unsplash.com/photo-1501446529957-6226bd447c46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80);
+              height: 500px;
+              background-size: cover;
+              background-position: center;
+              color: #fff;
+}
+
+.container{
+              max-width: 1140px;
+              margin: 0 auto;
+}
+
+.nav{
+              display: flex;
+              justify-content: space-between;
+              padding: 1rem 0;
+}
+
+nav a{
+              color: #fff;
+              text-decoration: none;
+}
+
+.logo a{
+              font-size: 24px;
+}
+
+.header-info{
+              margin-top: 5rem;
+              /* border: 1px solid red; */
+              width: 500px;
+}
+
+.header-info h3{
+              font-size: 3rem;
+              font-weight: lighter;
+}
+
+.header-btn{
+              margin-top: 1rem;
+}
+
+.header-btn input{
+              padding: 0.5rem;
+              width: 230px;
+              border: none;
+              border-radius: 5px;
+}
+
+.header-btn button{
+              padding: 0.5rem;
+              width: 150px;
+              background-color: #0095FF;
+              color: #fff;
+              border: none;
+              border-radius: 5px;
+}
+
+
+
+.about{
+              text-align: center;
+              padding: 3rem 0;
+}
+.about-con{
+              padding: 0 15rem;
+}
+.about-title{
+              color: #00b7ff;
+              font-size: 2rem;
+}
+.about-desc{
+              color: #808080;;
+              margin: 1rem 0;
+}
+.about-img{
+              margin: 2rem 0;
+}
